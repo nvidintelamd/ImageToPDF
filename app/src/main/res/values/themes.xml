@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.ImageToPDF" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:navigationBarColor">@android:color/white</item>
+    </style>
+</resources>

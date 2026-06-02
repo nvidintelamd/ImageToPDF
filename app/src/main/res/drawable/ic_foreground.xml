@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- PDF 文档图标 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,20 L65,20 L78,33 L78,88 L30,88 Z" />
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M65,20 L65,33 L78,33 Z" />
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M40,50 L40,72 L48,72 L48,64 L45,64 L45,58 L48,58 L48,50 Z" />
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M52,50 L58,50 C62,50 62,61 58,61 L52,61 L52,72 L46,72 L46,50 Z M52,56 L56,56 C57,56 57,50 56,50 L52,50 Z" />
+</vector>
